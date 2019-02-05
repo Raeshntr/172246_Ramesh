@@ -1,11 +1,11 @@
 <style>
     .navbar {
-      margin-bottom: 0;
-      border-radius: 0;
+      margin-bottom: 10;
+      border-radius:10;
     }
     
    
-    .row.content {height: 550px}
+    .row.content {height: 500px}
     
    
     .sidenav {
